@@ -1,4 +1,5 @@
 package exam.jo;
+
 import java.util.Scanner;
 
 /*
